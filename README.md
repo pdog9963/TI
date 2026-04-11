@@ -17,6 +17,19 @@
 **1.Vpn大法!** ~~快连~~，袋鼠，绿茶等vpn自然好用，但收费成为了其痛点。  
 于是便有了XP/Lsp模块大法！实现会员订阅的破解，或“无限试用”。  
 推荐项目：[Deer God](https://github.com/Xposed-Modules-Repo/com.wengui.hook "Deer God")，[Fuck for VIP](https://github.com/bug-bit/fckvip "Fuck for VIP")  
+**·示例(Deer god)**  
+
+<details>  
+
+<summary>😄折叠示例</summary>  
+<img src="https://github.com/pdog9963/TI/blob/main/photo/deer%20god%E7%A4%BA%E4%BE%8B.jpg?raw=true" width="210px"><img src="https://github.com/pdog9963/TI/blob/main/photo/%E9%97%AA%E8%BF%9Evpn%E7%A4%BA%E4%BE%8B.jpg?raw=tru" width="210px">  
+
+以闪连vpn为例，注册后拥有三天会员，无需绑定。所以进行依靠模块清理本地数据，重新注册账号即可(注册用时小于30s)😋
+  
+</details>  
+
+
+
 
 ##### 但是，此方法弊端也十分明显：适用平台较窄。此处仅有关于root后安卓设备的介绍。
 
@@ -33,9 +46,10 @@
   
 <summary>🧐折叠的图片（节点示例</summary>  
 
-![节点1](https://github.com/pdog9963/TI/blob/main/photo/v2rayn.png?raw=true "节点1")  
+<img src="https://github.com/pdog9963/TI/blob/main/photo/v2rayn.png?raw=true" width="420px">  
 
-![节点2](https://github.com/pdog9963/TI/blob/main/photo/%E8%8A%82%E7%82%B9%E5%AE%9E%E4%BE%8B.png?raw=true "节点2")]  
+<img src="https://github.com/pdog9963/TI/blob/main/photo/%E8%8A%82%E7%82%B9%E5%AE%9E%E4%BE%8B.png?raw=true" width="420px">  
+
 
 </details>
 
@@ -45,15 +59,15 @@
 
 ###### 极低的投入带来了较差的体验（对于本段大部分来说），高ping，底带宽，以及消失的安全性。
 
-**1，免费VPN工具** ；不作推荐、仅举例。如[**hiddify**](https://hiddify.com/ "hiddify")等。存在以上问题。
+**1，免费VPN工具** ；不作推荐、仅举例。如[**hiddify**](https://hiddify.com/ "hiddify")等。存在以上问题。  
 **2，免费节点**：从公开信息中寻找订阅链接，缺点在于节点多人使用，低带宽，额度（流量）“光速”归零，需不断寻找新的订阅。
 ①.Teleglam. 电报（纸飞机）上存在大量订阅分享频道，如[**轩辕节点吧**](https://t.me/fq521)；可使用点*搜索bot*（如：[**极搜**](https://t.me/jisou "极搜"))  
 
 <details>  
 <summary>😋折叠的图片（极搜</summary>  
   
-[![极搜](https://github.com/pdog9963/TI/blob/main/photo/ScreenShot_2026-04-11_134149_802.png?raw=true "极搜")]  
-  
+<img src="https://github.com/pdog9963/TI/blob/main/photo/ScreenShot_2026-04-11_134149_802.png?raw=true" width="210px">  
+
 </details>
 
 ②Grk：股万能的Grok] Gok!我要一些过用于clush,vixay的门接、图
