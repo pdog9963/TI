@@ -2,7 +2,7 @@
 
 ##### 此背景下，本项诞生了，意在帮助一些新手一站式学习翻墙工具、方法，及注意事项。下文从~~四~~两个”角色“所对应方法进行简述
 
-  [![邮箱](https://img.shields.io/badge/Email-SZKG%40p11451.cloudns.be-brightgreen "邮箱")](https://img.shields.io/badge/Email-SZKG%40p11451.cloudns.be-brightgreen "邮箱")
+  [![邮箱](https://img.shields.io/badge/Email-SZKG%40p114514.cloudns.be-brightgreen "邮箱")](https://img.shields.io/badge/Email-SZKG%40p114514.cloudns.be-brightgreen "邮箱")
 
 ****  
 ### *必要的科普*   
@@ -61,7 +61,7 @@ v2rayN / 小火箭通用订阅（v2ray / base64格式）
 ## **[START]**  
 
 ### **一、*"略爱折腾的穷小伙"***~~(简直本人)。~~ *[这些家伙不相信"天下没有免费的午餐",但忽视投入的时间]*   
-**1.Vpn大法!** ~~快连~~，袋鼠，绿茶等vpn自然好用，但收费成为了其痛点。  
+**1.Vpn大法!** ~~快连~~，袋鼠，闪连，绿茶等vpn自然 ~~好用~~ ，但收费成为了其痛点。  
 于是便有了XP/Lsp模块大法！实现会员订阅的破解，或“无限试用”。  
 推荐项目：[Deer God](https://github.com/Xposed-Modules-Repo/com.wengui.hook "Deer God")，[Fuck for VIP](https://github.com/bug-bit/fckvip "Fuck for VIP")  
 **·示例(Deer god)**  
