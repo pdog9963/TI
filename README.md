@@ -134,3 +134,4 @@ v2rayN / 小火箭通用订阅（v2ray / base64格式）
 
 ### 其实还剩两个角色[分别是'爱折腾的富哥'与'不爱折腾的富哥']，奈何精力不足，缺乏经验，难以写完。甚是遗憾！
 ##### 可以试试联系牢苟哟~，小概率会获得订阅链接~~
+<img src="https://github.com/pdog9963/TI/blob/main/photo/%E7%A0%811.jpg?raw=true" width="210px">  
