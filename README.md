@@ -34,7 +34,7 @@ v2rayN / 小火箭通用订阅（v2ray / base64格式）
 适合高玩，它们功能强大、规则灵活、可以精细控制流量。  
 ### 项目推荐  
 [NekoBox for Android](https://github.com/MatsuriDayo/NekoBoxForAndroid/releases "NekoBox for Android")，[v2rayN(电脑端的)](https://github.com/2dust/v2rayN/releases "v2rayN")， 
-[Clash Verge(电脑端的)]([](https://github.com/clash-verge-rev/clash-verge-rev/releases) "Clash Verge")，
+[Clash Verge(电脑端的)](https://github.com/clash-verge-rev/clash-verge-rev/releases),"Clash Verge")，
 [v2rayNG](https://github.com/2dust/v2rayNG/releases "v2rayNG")，
 [Clash Meta for Android](https://github.com/MetaCubeX/ClashMetaForAndroid/releases "Clash Meta for Android")   
   
