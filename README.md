@@ -87,7 +87,7 @@ v2rayN / 小火箭通用订阅（v2ray / base64格式）
 **牢苟**最喜欢的项目[【youtube】 【2026最强】免费VPN节点！Cloudflare 10分钟搭建|永久免费|全球高速节点|4K8K秒开|无限流量](https://www.youtube.com/watch?v=okjTFMiUCYA "【youtube】 【2026最强】免费VPN节点！Cloudflare 10分钟搭建|永久免费|全球高速节点|4K8K秒开|无限流量")，***项目地址***[**edgetunnel**](https://github.com/cmliu/edgetunnel "🚀 edgetunnel")
 推荐通过cloudflare pages搭建，配合代理工具（如v2ray）,秒杀大部分“机场”
 
-**·值得注意的是，大部分claudflare节点搭建教程中都含“自定义域名”部分，然而这不是必须的，(cloudflare works与pages及其提供的域名会被"墙"，教程中多数免费域名同样会被"墙"，无法起代理作用），可以在连接代理环境下更新订阅组**  
+**·值得注意的是，大部分claudflare节点搭建教程中都含“自定义域名”部分，然而这不是必须的，(cloudflare workers（pages似乎不会）及其提供的域名会被"墙"，教程中多数免费域名同样会被"墙"，无法起代理作用），可以在连接代理环境下更新订阅组**  
 
 <details>  
   
