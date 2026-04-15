@@ -7,7 +7,7 @@
 ****  
 ## *必要的科普*   
 ##### 希望我不需要科普GitHub的用法[包括如何从Releases下载内容]  
-##### 推荐读物 [防火长城笔记仓库](https://github.com/AntonyCheng/gfw-notes "防火长城笔记仓库")
+### 推荐读物 [防火长城笔记仓库](https://github.com/AntonyCheng/gfw-notes "防火长城笔记仓库")，    以及 [越过长城，走向世界——翻墙协议的历史与原理浅析](https://blog.ch3nyang.top/post/%E7%BF%BB%E5%A2%99%E5%8D%8F%E8%AE%AE/ "越过长城，走向世界——翻墙协议的历史与原理浅析")
 
 <details>  
 <summary>🧐点击展开</summary>  
@@ -68,8 +68,8 @@ v2rayN / 小火箭通用订阅（v2ray / base64格式）
 # **[START]**  
 
 ### **一、*"略爱折腾的穷小伙"***~~(简直本人)。~~ *[这些家伙不相信"天下没有免费的午餐",但忽视投入的时间]*   
-**1.Vpn大法!** ~~快连~~，袋鼠，闪连，绿茶等vpn自然 ~~好用~~ ，但收费成为了其痛点。  
-于是便有了XP/Lsp模块大法！实现会员订阅的破解，或“无限试用”。  
+**1.破解“Vpn”大法!** ~~快连~~，袋鼠，闪连，绿茶等vpn自然 ~~好用~~ ，但收费成为了其痛点。  
+幸有XP/Lsp模块大法。实现会员订阅的破解，或“无限试用”。  
 推荐项目：[Deer God](https://github.com/Xposed-Modules-Repo/com.wengui.hook "Deer God")，[Fuck for VIP](https://github.com/bug-bit/fckvip "Fuck for VIP")  
 **·示例(Deer god)**  
 
@@ -78,7 +78,7 @@ v2rayN / 小火箭通用订阅（v2ray / base64格式）
 <summary>😄折叠示例</summary>  
 <img src="https://github.com/pdog9963/TI/blob/main/photo/deer%20god%E7%A4%BA%E4%BE%8B.jpg?raw=true" width="210px"><img src="https://github.com/pdog9963/TI/blob/main/photo/%E9%97%AA%E8%BF%9Evpn%E7%A4%BA%E4%BE%8B.jpg?raw=tru" width="210px">  
 
-以闪连vpn为例，注册后拥有三天会员，无需绑定。所以进行依靠模块清理本地数据，重新注册账号即可(注册用时小于30s)😋
+以闪连vpn为例，注册后拥有三天会员，无需绑定。所以进行依靠模块清理本地数据，重新注册账号即可(注册用时小于30s)
   
 </details>  
 
@@ -126,7 +126,7 @@ v2rayN / 小火箭通用订阅（v2ray / base64格式）
 
 </details>
 
-②Grok：[万能的Grok啊] *“  **Grok!**  我要一些适用于clash,v2rayn的订阅链接”*   
+②Grok：[万能的Grok啊] *“  **Grok!**  我需要一些适用于clash,v2rayn的订阅链接”*   
 
 <img src="https://github.com/pdog9963/TI/blob/main/photo/grok%E7%A4%BA%E4%BE%8B.png?raw=true" width="400px">   
 
@@ -140,5 +140,5 @@ v2rayN / 小火箭通用订阅（v2ray / base64格式）
 <img src="https://github.com/pdog9963/TI/blob/main/photo/%E4%B9%9E%E8%AE%A8%E7%A4%BA%E4%BE%8B.jpg?raw=true" width="210px">  
 
 ### 精力不足，经验有限，难以写完。甚是遗憾！
-##### 可以试试联系牢苟哟~，小概率会获得订阅链接~~
+##### 可以试试联系牢苟[不要帽子]~，小概率会获得订阅链接~~
 
