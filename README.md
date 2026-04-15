@@ -13,19 +13,22 @@
 
 #### 1. 节点？   
 节点是一个具体的代理服务器（可简称“服务器”或“Proxy”）。  
-其配置包括它包含：服务器IP地址、端口、协议类型（VMess、VLESS、Trojan、Shadowsocks等）、密码/UUID、加密方式等信息。   
+其一个节点对于客户端的配置（一般也简称*节点*）包括：其服务器IP地址、端口、协议类型（VMess、VLESS、Trojan、Shadowsocks等）、密码/UUID、加密方式等信息。   
 作用：设备通过这个“节点”中转流量，实现科学上网（绕过GFW等设施）。  
 一个好的节点通常有低延迟、高速度、解锁Netflix/YouTube等流媒体的能力。    
 
 #### 2. 订阅链接？  
-订阅链接（Subscription URL）就是一个特殊的网页链接（通常以 https://或http:// 开头），里面打包了很多节点的信息。有些含有混淆，不具有可读性[至少入读读懂]。将这个链接粘贴到Clash / v2rayN 等客户端里，客户端下载、解析、更新节点。    
+订阅链接（Subscription URL）就是一个特殊的网页链接（通常以 https://或http:// 开头），里面打包了很多节点的信息。有些含有混淆，不具有可读性[至少入读不懂]。将这个链接粘贴到Clash / v2rayN 等客户端里，随后客户端下载、解析、更新节点。过程可称订阅，下载文件称为*配置*    
 优点：一键导入几十甚至几百个节点，不用手动一个一个添加。  
-支持自动更新：节点失效了，点击“更新订阅”就能换新的。[在订阅链接失效]  
+支持自动更新：节点失效了，点击“更新订阅”就能换新的。[在订阅链接失效后无法更新]  
 不同客户端有不同格式：Clash用YAML格式，v2rayN常用Base64或txt格式。  
-
 类型：Clash专用订阅（.yaml格式）  
 v2rayN / 小火箭通用订阅（v2ray / base64格式）  
 付费机场的订阅链接通常带密钥（uuid/token）（很长一串），[免费的公开分享。形式通常与付费订阅相同，少数'无乱码'（即密钥）]  
+<img src="https://github.com/pdog9963/TI/blob/main/photo/%E8%AE%A2%E9%98%85%E9%93%BE%E6%8E%A5%EF%BC%88%E6%9C%AA%E6%B7%B7%E6%B7%86%EF%BC%89.png?raw=true" width="400px">   
+<img src="https://github.com/pdog9963/TI/blob/main/photo/%E8%AE%A2%E9%98%85%E9%93%BE%E6%8E%A5%EF%BC%88%E6%B7%B7%E6%B7%86%EF%BC%89.png?raw=true" width="400px">   
+##### 上图为未混淆*配置*，下图为混淆*配置*。
+
 
 #### 3. “订阅链接型的代理工具”？  
 指Clash（Clash for Windows、Clash Verge、Clash Meta等）、v2rayN、NekoRay、sing-box 等这类开源/社区客户端。它们的共同特点是：支持订阅链接一键导入大量节点。  
