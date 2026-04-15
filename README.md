@@ -5,19 +5,20 @@
   [![邮箱](https://img.shields.io/badge/Email-SZKG%40p114514.cloudns.be-brightgreen "邮箱")](https://img.shields.io/badge/Email-SZKG%40p114514.cloudns.be-brightgreen "邮箱")
 
 ****  
-### *必要的科普*   
+## *必要的科普*   
 ##### 希望我不需要科普GitHub的用法[包括如何从Releases下载内容]
 
 <details>  
 <summary>🧐点击展开</summary>  
 
 #### 1. 节点？   
-节点 = 一个具体的代理服务器（可简称“服务器”或“Proxy”）。它包含：服务器IP地址、端口、协议类型（VMess、VLESS、Trojan、Shadowsocks等）、密码/UUID、加密方式等信息。   
+节点是一个具体的代理服务器（可简称“服务器”或“Proxy”）。  
+其配置包括它包含：服务器IP地址、端口、协议类型（VMess、VLESS、Trojan、Shadowsocks等）、密码/UUID、加密方式等信息。   
 作用：设备通过这个“节点”中转流量，实现科学上网（绕过GFW等设施）。  
 一个好的节点通常有低延迟、高速度、解锁Netflix/YouTube等流媒体的能力。    
 
 #### 2. 订阅链接？  
-订阅链接（Subscription URL）就是一个特殊的网页链接（通常以 https:// 开头），里面打包了很多节点的信息。将这个链接粘贴到Clash / v2rayN 等客户端里，客户端下载、解析、更新节点。    
+订阅链接（Subscription URL）就是一个特殊的网页链接（通常以 https://或http:// 开头），里面打包了很多节点的信息。有些含有混淆，不具有可读性[至少入读读懂]。将这个链接粘贴到Clash / v2rayN 等客户端里，客户端下载、解析、更新节点。    
 优点：一键导入几十甚至几百个节点，不用手动一个一个添加。  
 支持自动更新：节点失效了，点击“更新订阅”就能换新的。[在订阅链接失效]  
 不同客户端有不同格式：Clash用YAML格式，v2rayN常用Base64或txt格式。  
@@ -58,7 +59,7 @@ v2rayN / 小火箭通用订阅（v2ray / base64格式）
 
 </details>  
 
-## **[START]**  
+# **[START]**  
 
 ### **一、*"略爱折腾的穷小伙"***~~(简直本人)。~~ *[这些家伙不相信"天下没有免费的午餐",但忽视投入的时间]*   
 **1.Vpn大法!** ~~快连~~，袋鼠，闪连，绿茶等vpn自然 ~~好用~~ ，但收费成为了其痛点。  
@@ -134,4 +135,4 @@ v2rayN / 小火箭通用订阅（v2ray / base64格式）
 
 ### 其实还剩两个角色[分别是'爱折腾的富哥'与'不爱折腾的富哥']，奈何精力不足，经验有限，难以写完。甚是遗憾！
 ##### 可以试试联系牢苟哟~，小概率会获得订阅链接~~
-<img src="https://github.com/pdog9963/TI/blob/main/photo/%E7%A0%811.jpg?raw=true" width="210px">  
+
